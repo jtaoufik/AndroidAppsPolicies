@@ -8,11 +8,15 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 Permission requests explained
 
-In our application, We request somes sensitive permissions to make functions of application work properly:
+In our application, We request somes permissions to make functions of application work properly:
 
 android.permission.RECORD_AUDIO: This permission used to record your voice.
 
 android.permission.STORAGE, android.permission.WRITE_EXTERNAL_STORAGE, and android.permission.READ_EXTERNAL_STORAGE : Theses permissions are used to read/write on internal and external storage to save the recordings.
+
+Overview
+
+Our application will not collect your voice recordings, everything is stored locally on your mobile phone.
 
 Changes to This Privacy Policy
 
