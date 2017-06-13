@@ -11,7 +11,8 @@ Permission requests explained
 In our application, We request somes sensitive permissions to make functions of application work properly:
 
 android.permission.RECORD_AUDIO: This permission used to record your voice.
-android.permission.STORAGE, android.permission.WRITE_EXTERNAL_STORAGE, and android.permission.READ_EXTERNAL_STORAGE: This permission is used to read/write on internal and external storage to save the recordings.
+
+android.permission.STORAGE, android.permission.WRITE_EXTERNAL_STORAGE, and android.permission.READ_EXTERNAL_STORAGE : Theses permissions are used to read/write on internal and external storage to save the recordings.
 
 Changes to This Privacy Policy
 
