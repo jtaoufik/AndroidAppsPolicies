@@ -1,4 +1,4 @@
-Personal information
+Privacy Policy
 
 HeptApp built the Voice Recorder Pro app as a Free app. This SERVICE is provided by HeptApp at no cost and is intended for use as is.
 
