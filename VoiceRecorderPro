@@ -1,0 +1,7 @@
+Personal information
+We HeptApp made Voice Recorder Pro with your privacy in mind, so we do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number, email address or precise geographic location.
+
+Explains for some permission requests
+In our application, We request somes sensitive permissions to make functions of application work properly:
+android.permission.RECORD_AUDIO: This permission used to record your voice.
+android.permission.STORAGE, android.permission.WRITE_EXTERNAL_STORAGE, and android.permission.READ_EXTERNAL_STORAGE: This permission is used to read/write on internal and external storage to save the recordings.
